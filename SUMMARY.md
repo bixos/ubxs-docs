@@ -1,0 +1,16 @@
+# Table of contents
+
+* [Cover & Abstract](README.md)
+* [Table of Contents](table-of-contents.md)
+* [1. Introduction](1.-introduction/README.md)
+  * [1.1 Detailed Information About the Company](1.-introduction/1.1-detailed-information-about-the-company.md)
+  * [1.2 Base and Purpose of the UBXS Token (Utility Bixos Token)](1.-introduction/1.2-base-and-purpose-of-the-ubxs-token-utility-bixos-token.md)
+* [2. Detailed Market Information About the UBXS Token (Utility Bixos Token)](2.-detailed-market-information-about-the-ubxs-token-utility-bixos-token.md)
+* [3. Profits of the UBXS Token (Utility Bixos Token)](3.-profits-of-the-ubxs-token-utility-bixos-token.md)
+* [4. Details of the Project](4.-details-of-the-project.md)
+* [5. Possible Issues and How They Will Be Handled](5.-possible-issues-and-how-they-will-be-handled.md)
+* [6. Market Place and Metaverse](6.-market-place-and-metaverse.md)
+* [7. Possible Future Partners of This Project](7.-possible-future-partners-of-this-project.md)
+* [8. Roadmap](8.-roadmap.md)
+* [9. Conclusion](9.-conclusion.md)
+* [10. Sources](10.-sources.md)
