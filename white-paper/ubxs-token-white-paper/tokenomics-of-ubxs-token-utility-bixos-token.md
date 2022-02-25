@@ -15,7 +15,7 @@ With NFT-Bonds, which will be a new technology we have developed to buy BXS Toke
 \
 The BXS (Governance) Token to be released to the market will be the shares of the DAO-LLC Company. This means that the people who own these shares will be shareholders. And dividends (company profit) will be distributed to the shareholders as much as their current token percentage. The company profit is obtained from the requested prices during real estate ownership (Deed) - in NFT conversions, Mediation of Deed-NFT conversion, NFT/Wallet Insurance, Deed-NFT verification and other fees requested for inheritance protection. (In BXS Token Whitepaper process will be explained in detail.) For sure, this is valid for holders over a certain percentage (1.5% \~ 2%). The use of UBXS Token will keep the UBXS ecosystem alive by offering discounts on the payments of the items mentioned above. Apart from this, UBXS burn events will be organized to add excitement to the community and increase community activity on social media soon.
 
-**UBXS-BXS **_**S**_**wap Formula**
+**UBXS-BXS Swap Formula**
 
 _****_![](<../../.gitbook/assets/image (1).png>)_****_\
 _****_\
