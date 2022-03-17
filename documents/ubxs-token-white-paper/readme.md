@@ -1,7 +1,3 @@
----
-coverY: 0
----
-
 # Cover & Abstract
 
 The UBXS Token (Utility Bixos Token)
