@@ -18,7 +18,8 @@
   * [Roadmap](documents/ubxs-token-white-paper/8.-roadmap.md)
   * [Conclusion](documents/ubxs-token-white-paper/9.-conclusion.md)
   * [Sources](documents/ubxs-token-white-paper/10.-sources.md)
-* [NFT-Stake Introduction](documents/nft-stake-introduction.md)
+* [NFT-Stake Introduction](documents/nft-stake-introduction/README.md)
+  * [FAQ](documents/nft-stake-introduction/faq.md)
 
 ## For detailed information
 
