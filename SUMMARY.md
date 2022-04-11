@@ -20,6 +20,7 @@
   * [Sources](documents/ubxs-token-white-paper/10.-sources.md)
 * [NFT-Stake Introduction](documents/nft-stake-introduction/README.md)
   * [FAQ](documents/nft-stake-introduction/faq.md)
+* [Bixosverse Game Introduction](documents/bixosverse-game-introduction.md)
 
 ## For detailed information
 
