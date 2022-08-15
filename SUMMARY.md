@@ -2,7 +2,7 @@
 
 ## DOCUMENTS
 
-* [UBXS Token](README.md)
+* [UBXS Token White Paper](README.md)
   * [Cover & Abstract](documents/ubxs-token-white-paper/readme.md)
   * [Table of Contents](documents/ubxs-token-white-paper/table-of-contents.md)
   * [Introduction](documents/ubxs-token-white-paper/1.-introduction/README.md)
@@ -20,9 +20,6 @@
   * [Sources](documents/ubxs-token-white-paper/10.-sources.md)
 * [NFT-Stake Introduction](documents/nft-stake-introduction/README.md)
   * [FAQ](documents/nft-stake-introduction/faq.md)
-* [UBXS Stake Introduction](documents/ubxs-stake-introduction/README.md)
-  * [Stake UBXS](documents/ubxs-stake-introduction/stake-ubxs.md)
-  * [FAQ](documents/ubxs-stake-introduction/faq.md)
 * [Bixosverse Game Introduction](documents/bixosverse-game-introduction.md)
 
 ## For detailed information
@@ -41,9 +38,5 @@
 
 ## Informative Articles
 
-* [Metamask](informative-articles/metamask/README.md)
-  * [Install Metamask](informative-articles/metamask/install-metamask.md)
-  * [Create an Account](informative-articles/metamask/create-an-account.md)
-  * [Import UBXS Token on Metamask](informative-articles/metamask/import-ubxs-token-on-metamask.md)
 * [Connecting Metamask to BSC](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
 * [Connecting Trust Wallet to BSC](https://www.binance.com/en/blog/ecosystem/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain-421499824684901157)
