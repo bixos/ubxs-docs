@@ -21,7 +21,7 @@
 * [NFT-Stake Introduction](documents/nft-stake-introduction/README.md)
   * [FAQ](documents/nft-stake-introduction/faq.md)
 * [UBXS Stake Introduction](documents/ubxs-stake-introduction/README.md)
-  * [Stake UBXS](documents/ubxs-stake-introduction/stake-ubxs.md)
+  * [How It Works?](documents/ubxs-stake-introduction/how-it-works.md)
   * [FAQ](documents/ubxs-stake-introduction/faq.md)
 * [Bixosverse Game Introduction](documents/bixosverse-game-introduction.md)
 
