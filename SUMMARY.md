@@ -3,7 +3,10 @@
 ## DOCUMENTS
 
 * [UBXS Token](README.md)
-  * [Cover & Abstract](documents/ubxs-token-white-paper/readme.md)
+  * [Legal Disclaimer](documents/readme/ubxs-token-white-paper/README.md)
+    * [Non-Liability Statement](documents/readme/ubxs-token-white-paper/non-liability-statement.md)
+    * [Applicable Law & Jurisdiction](documents/readme/ubxs-token-white-paper/applicable-law-and-jurisdiction.md)
+    * [Whitepaper Revision Alert](documents/readme/ubxs-token-white-paper/whitepaper-revision-alert.md)
   * [Table of Contents](documents/ubxs-token-white-paper/table-of-contents.md)
   * [Introduction](documents/ubxs-token-white-paper/1.-introduction/README.md)
     * [Detailed Information About the Company](documents/ubxs-token-white-paper/1.-introduction/1.1-detailed-information-about-the-company.md)
